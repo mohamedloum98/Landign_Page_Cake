@@ -1,0 +1,33 @@
+body{
+    /* background-image: url("./images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    margin: 0; */
+    background-color: #161415;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin-top: 30px;
+}
+
+ul li{
+    color: white;
+    margin-left: 20px;
+}
+
+nav{
+    display: flex;
+    position: absolute;
+    top: 20px;
+}
+
+.background{
+    position: relative;
+}
